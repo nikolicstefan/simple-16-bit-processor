@@ -70,3 +70,7 @@ Control units (except COMMON) are implemented as **microprogrammed control units
   - RAM files contain test programs and data
   - ROM files contain microprogram control data for FETCH, ADDR, EXEC, and INTR units
 - Project was developed as part of coursework and is not intended for production use.
+
+## Acknowledgment
+
+- Parts of the project are based on course-provided Logisim circuit files and libraries, extended with additional components.
